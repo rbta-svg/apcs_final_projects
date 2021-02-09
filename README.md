@@ -1,4 +1,4 @@
-# apcs_final_projec
+# ed/edX editor
 
 ed/edX editor, final project for the 'Algorithms and Principles of Computer Science' course. 
 
