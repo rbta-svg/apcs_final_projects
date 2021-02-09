@@ -17,7 +17,7 @@ The supported commands are the following, with the convention that ind1<=ind2, w
 
 
 
--  (ind1, ind2)c
+-  (ind1, ind2)c //
     Changes the text between the lines ind1 and ind2. The following text should have ind2-ind1+1 lines, and ind1 should be an identifier for a line that is actually present in the editor, or the first free line.
     
 -  (ind1, ind2)d
